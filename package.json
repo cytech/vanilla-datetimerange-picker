@@ -1,6 +1,6 @@
 {
   "name": "vanilla-datetimerange-picker",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "vanilla javascript DateTime range picker",
   "main": "vanilla-datetimerange-picker.js",
   "style": "vanilla-datetimerange-picker.css",
